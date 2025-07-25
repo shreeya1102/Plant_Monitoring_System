@@ -47,3 +47,8 @@ Soil Moisture
 Temperature (°C)
 Pump Status (Watering/Not Watering)
 Plant Mood (based on thresholds)
+
+
+## Source Code
+
+You can find the complete Arduino code in the [`src/code.ino`](src/code.ino) file.
