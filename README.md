@@ -24,6 +24,14 @@ Automatic watering trigger when moisture is low.
 Cloud based dashboard to visualize data remotely
 Power-efficient and compact design
 
+**Project Visuals**
+**Dashboard Screenshot**
+![Dashboard Screenshot](images/happy.png)
+![Dashboard Screenshot](images/watering.png)
+**Wiring Diagram**
+![Wiring Diagram](images/circuit.png)
+(Also refer images folder)
+
 **System Workflow**
 Sensors continuously measure environmental data.
 If soil moisture is below the set threshold:
